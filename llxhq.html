@@ -124,21 +124,25 @@
                   <select id='select'
                     onchange="document.getElementById('link').value=this.options[this.selectedIndex].value;setCookie('select',this.selectedIndex,365);"
                     type="text" class="form-control">
-                    <option value="" id="diy">自定义</option>
-                    <option selected="selected" value="https://wppkg.baidupcs.com/issue/netdisk/apk/BaiduNetdisk_10.1.02.apk">百度CDN [高速]</option>
-                    <option value="https://kodo-toolbox.qiniu.com/kodo-browser-Linux-x64-v1.0.17.zip">七牛云CDN [高速]</option>
-                    <option value="https://img.alicdn.com/imgextra/i1/O1CN01xA4P9S1JsW2WEg0e1_!!6000000001084-2-tps-2880-560.png">阿里CDN</option>
-                    <option value="https://game.gtimg.cn/images/nz/web202106/index/bc_part1.gif?0.3190485611376561">腾讯CDN</option>
-                    <option value="https://lf9-cdn-tos.bytecdntp.com/cdn/yuntu-index/1.0.4/case/maiteng/detailbg.png">字节跳动</option>
-                    <option value="https://img10.360buyimg.com/live/jfs/t1/128947/12/26918/1361527/6260e71bE0ee85af5/ecaa17ea8dd3dddb.jpg">京东</option>
-                    <option value="https://pic-bucket.ws.126.net/photo/0003/2022-04-24/H5N2082C00AJ0003NOS.jpg">网易</option>
-                    <option value="https://cnbj0.fds.api.xiaomi.com/b2c-data-mishop/9b9d95e1ece27d5ec75205e5fe719ba5.apk">小米</option>
-                    <option value="https://wwwstatic.vivo.com.cn/vivoportal/files/resource/funtouch/1651200648928/images/os2-jude-video.mp4">Vivo</option>
-                    <option value="https://d.musicapp.migu.cn/upload/fbpt_rsync_apps/local/signed/MobileMusic7140/MobileMusic7140_0140068.apk">咪咕音乐</option>
-                    <option value="https://img.mcloud.139.com/material_prod/material_media/20221128/1669626861087.png">和彩云</option>
-                    <option value="https://vod-origin-rjzy.gdoss.xstore.ctyun.cn/07da9eb52ad948c7b58b760003c0006b.mp4">天翼云</option>
-                    <option value="https://cachefly.cachefly.net/100mb.test">Cachefly Test [Global]</option>
-                    <option value="https://speed.cloudflare.com/__down?bytes=1073741824">Cloudflare Speed [Global]</option>
+                    <option value="" id="diy">自定义</option>                 
+                    <option selected="selected" value="https://freeserver.migufun.com/resource/beta/apk/20231114094513/MiguPlay-V3.69.1.1_miguzsj.apk">【移动】咪咕快游[高速]</option>
+		    <option value="https://d.musicapp.migu.cn/upload/fbpt_rsync_apps/local/signed/MobileMusic7413/MobileMusic7413_014000D.apk">【移动】咪咕音乐</option>
+		    <option value="https://img.cmvideo.cn/publish/noms/2023/12/06/1O4SHFIFR36BD.gif">【移动】咪咕视频</option>
+		    <option value="https://h5cdn.migufun.com/middleh5/_nuxt/643447d.js">【移动】咪咕快游2</option>
+		    <option value="https://img.mcloud.139.com/material_prod/material_media/20221128/1669626861087.png">【移动】和彩云</option>
+		    <option value="https://im.zdxlz.com/downloadmi/file-im-sdk/apk/mobile/%E9%87%8F%E5%AD%90%E5%AF%86%E4%BF%A1.apk">【电信】量子密信</option>
+		    <option value="https://vod-origin-rjzy.gdoss.xstore.ctyun.cn/1de5da90486f42e8939deed107fd64a3.mp4">【电信】天翼云</option>
+		    <option value="https://desk.ctyun.cn:8999/desktop-prod/software/windows_tob_client/15/64/202000005/CtyunClouddeskUniversal_2.0.0_202000005_x86_20230421161227_Setup_Signed.exe">【电信】天翼云桌面</option>
+		    <option value="NetworkPanelApi://listen.10155.com">联通电视</option>
+		    <option value="https://vipspeedtest8.wuhan.net.cn:8080/download?size=1073741824">【电信】网络测速</option>
+		    <option value="https://web1.cachefly.net/speedtest/downloading">"【国外】Cachefly</option>
+		    <option value="https://speed.cloudflare.com/__down?bytes=104857600">【国外】Cloudflare</option>
+		    <option value="https://gh.con.sh/https://github.com/AaronFeng753/Waifu2x-Extension-GUI/releases/download/v2.21.12/Waifu2x-Extension-GUI-v2.21.12-Portable.7z">【国外】Cloudflare Workers</option>
+		    <option value="https://akamtrans-a.akamaihd.net/delivery/2023/08/30/brand-protector-2500k-00004.ts">【国外】Akamai</option>
+		    <option value="https://cdn.jsdelivr.net/gh/ljxi/CDN-IP-test@main/dump">【国外】jsDelivr</option>
+		    <option value="https://cdn.akamai.steamstatic.com/steam/apps/1063730/extras/NW_Sword_Sorcery_2.gif">【国外】Steam Akamai</option>
+		    <option value="https://cdn.cloudflare.steamstatic.com/steam/apps/1063730/extras/NW_Sword_Sorcery_2.gif">【国外】Steam Cloudflare</option>
+		    <option value="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW16Ptm">【国外】Microsoft Akamai</option>
                   </select>
                   <input value=""
                     oninput="document.getElementById('select').selectedIndex=0;document.getElementById('diy').value=this.value;setCookie('diy',this.value,365);setCookie('select',0,365);" type="text" id="link"
