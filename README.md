@@ -1,7 +1,7 @@
 # 橄榄头官网⭐收藏防丢失
 👉[橄榄头官网永久地址](https://www.fjglt.com/)👈  https://www.fjglt.com/  
 
-👉[橄榄头官网备用2](https://www.fjglt.cn/)👈  https://www.fjglt.cn/  
+👉[橄榄头官网备用](https://www.fjglt.cn/)👈  https://www.fjglt.cn/  
 # 全国流量卡套餐购买
 👉[大流量卡购买1](http://card.haokale.com/?id=2369)👈 流量优惠卡套餐购买 http://mrw.so/5EX2Ju  
 
