@@ -32,10 +32,10 @@
 👉[福建通讯活动群🈲](https://qm.qq.com/cgi-bin/qm/qr?k=gYq7XOlel2x66RKIloUvEDBVk6rrkLEM) --👉[QQ交流频道](https://pd.qq.com/s/1gc3n4jpq)👈
 
 👉[福建移动QQ群](https://jq.qq.com/?_wv=1027&k=UTGzAPwX)👈----👉[福建移动微信群](http://qr61.cn/oW63fk/qSwu3ZR)👈  
+
+👉[福建电信QQ群](https://jq.qq.com/?_wv=1027&k=g2rIAuSy)👈----👉[福建电信微信群](http://qr61.cn/oW63fk/q3k18nF)👈  
  
 👉[福建联通QQ群](https://jq.qq.com/?_wv=1027&k=ficUpmVX)👈----👉[福建联通微信群](http://qr61.cn/oW63fk/qKlxB3V)👈  
- 
-👉[福建电信QQ群](https://jq.qq.com/?_wv=1027&k=g2rIAuSy)👈----👉[福建电信微信群](http://qr61.cn/oW63fk/q3k18nF)👈  
 
 👉[福建广电QQ群](https://jq.qq.com/?_wv=1027&k=JhBcovnM)👈----👉[福建广电微信群](http://qr61.cn/oW63fk/qHxGVtE)👈  
 
