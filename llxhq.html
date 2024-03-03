@@ -125,10 +125,6 @@
                     onchange="document.getElementById('link').value=this.options[this.selectedIndex].value;setCookie('select',this.selectedIndex,365);"
                     type="text" class="form-control">
                     <option value="" id="diy">自定义</option>    
-		    <input value=""
-                    oninput="document.getElementById('select').selectedIndex=0;document.getElementById('diy').value=this.value;setCookie('diy',this.value,365);setCookie('select',0,365);" type="text" id="link"
-                    placeholder="请输入下载链接" autocomplete="off" class="form-control">
-			  
 		    <option selected="selected" value="https://freeserver.migufun.com/resource/beta/apk/20231114094513/MiguPlay-V3.69.1.1_miguzsj.apk">【移动】咪咕快游[高速]</option>
 		    <option value="http://h5cdn.migufun.com/middleh5/_nuxt/643447d.js">【移动】咪咕快游2</option>
 		    <option value="http://d.musicapp.migu.cn/upload/fbpt_rsync_apps/local/signed/MobileMusic7413/MobileMusic7413_014000D.apk">【移动】咪咕音乐</option>
@@ -154,7 +150,9 @@
 		    <option value="networkpanel://node/#eyJ1cmwiOiJodHRwOi8vcXEuY29tLyIsInVwbG9hZCI6dHJ1ZX0##0dcede8e37f3fff4d6dd9bd00cfc5c2f">【腾讯】CDN(上行)</option>
 		    <option value="networkpanel://node/#eyJ1cmwiOiJodHRwOi8vbWlycm9ycy5zanR1Zy5zanR1LmVkdS5jbi9zcGVlZHRlc3QvZW1wdHkiLCJ1cGxvYWQiOnRydWV9##299f3d5cfa46a7904545f381d4b77ed8">【交大】上海交大(上行)</option>
                   </select>
-
+		    <input value=""
+                    oninput="document.getElementById('select').selectedIndex=0;document.getElementById('diy').value=this.value;setCookie('diy',this.value,365);setCookie('select',0,365);" type="text" id="link"
+                    placeholder="请输入下载链接" autocomplete="off" class="form-control">  
                 </div>
               </div>
               <div class="form-group"><label class="form-label">线程</label>
