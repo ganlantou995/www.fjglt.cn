@@ -16,6 +16,14 @@
 
 👉[百度网盘SVIP188](https://pan.baidu.com/wap/vip/user?active_svip=1y_auto&activetab=svip&from=shequn&activity_id=132686988468&ext=%7B%22bcode%22%3A%2283393974a85c1170843a3076a35e1e778b393975a85f147580393275a45c1076873b3177a0551573%22%7D)👈  
 
+# 第三方平台
+
+👉[橄榄头-抖音](https://v.douyin.com/iF1svUYr/)👈  https://v.douyin.com/iF1svUYr/  
+
+👉[橄榄头-哔哩哔哩](https://b23.tv/cp44S4U)👈  https://b23.tv/cp44S4U  
+
+👉[橄榄头-酷安](http://www.coolapk.com/u/599094)👈  http://www.coolapk.com/u/599094  
+
 # 运营商活动
 >   福建活动
   
