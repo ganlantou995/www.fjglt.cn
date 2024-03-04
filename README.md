@@ -18,11 +18,11 @@
 
 # 第三方平台
 
-👉[橄榄头-抖音](https://v.douyin.com/iF1svUYr/)👈  https://v.douyin.com/iF1svUYr/  
+👉[抖音](https://v.douyin.com/iF1svUYr/)👈  https://v.douyin.com/iF1svUYr/  
 
-👉[橄榄头-哔哩哔哩](https://b23.tv/cp44S4U)👈  https://b23.tv/cp44S4U  
+👉[哔哩哔哩](https://b23.tv/cp44S4U)👈  https://b23.tv/cp44S4U  
 
-👉[橄榄头-酷安](http://www.coolapk.com/u/599094)👈  http://www.coolapk.com/u/599094  
+👉[酷安](http://www.coolapk.com/u/599094)👈  http://www.coolapk.com/u/599094  
 
 # 运营商活动
 >   福建活动
