@@ -18,7 +18,7 @@
 
 # 影视观看
 
-👉[影视](https://www.fjlgt.com/vip)👈 https://www.fjlgt.com/vip
+👉[影视](https://www.fjlgt.cn/vip)👈 https://www.fjlgt.cn/vip
 
 # 第三方平台
 
