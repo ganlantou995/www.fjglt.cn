@@ -16,6 +16,10 @@
 
 👉[百度网盘SVIP188](https://pan.baidu.com/wap/vip/user?active_svip=1y_auto&activetab=svip&from=shequn&activity_id=132686988468&ext=%7B%22bcode%22%3A%2283393974a85c1170843a3076a35e1e778b393975a85f147580393275a45c1076873b3177a0551573%22%7D)👈  
 
+# 影视观看
+
+👉[影视](https://www.fjlgt.com/vip)👈 https://www.fjlgt.com/vip
+
 # 第三方平台
 
 👉[抖音](https://v.douyin.com/iF1svUYr/)👈  https://v.douyin.com/iF1svUYr/  
