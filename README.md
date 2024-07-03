@@ -1,9 +1,11 @@
 # 橄榄头官网⭐收藏防丢失
 👉[橄榄头官网永久地址](https://www.fjglt.com/)👈  https://www.fjglt.com/  
 
-👉[橄榄头官网备用](https://www.fjglt.cn/)👈  https://www.fjglt.cn/  
+👉[橄榄头官网备用地址](https://www.fjglt.cn/)👈  https://www.fjglt.cn/  
 # 全国流量卡套餐购买
-👉[大流量卡购买1](http://card.haokale.com/?id=2369)👈 流量优惠卡套餐购买 http://mrw.so/5EX2Ju  
+👉[大流量卡购买0](https://h5.gantanhao.com?from=BDF)👈 流量优惠卡套餐购买 https://h5.gantanhao.com?from=BDF 
+
+👉[大流量卡购买1](https://card.haokale.com/?id=2369)👈 流量优惠卡套餐购买 https://mrw.so/5EX2Ju  
 
 👉[大流量卡购买2](https://card.wi-fi.cn/dist/index.html?source1=%E5%8F%B7%E5%8D%A1%E5%B9%BF%E5%9C%BA&sourcetype=zhushou&channel=zhushou&showBanner=false&seller_id=4141#/allpromotion)👈  
 
@@ -31,13 +33,13 @@
 # 运营商活动
 >   福建活动
   
-👉[福建移动活动链接](http://f0q.cn/1pollw)👈  http://f0q.cn/1pollw  
+👉[福建移动活动链接](https://f0q.cn/1pollw)👈  https://f0q.cn/1pollw  
 
-👉[福建电信活动链接](http://f0q.cn/1rkqsX)👈  http://f0q.cn/1rkqsX  
+👉[福建电信活动链接](https://f0q.cn/1rkqsX)👈  https://f0q.cn/1rkqsX  
 
-👉[福建联通活动链接](http://f0q.cn/29Ha7n)👈  http://f0q.cn/29Ha7n  
+👉[福建联通活动链接](https://f0q.cn/29Ha7n)👈  https://f0q.cn/29Ha7n  
 
-👉[福建广电活动链接](http://f0q.cn/22eqE6)👈  http://f0q.cn/22eqE6  
+👉[福建广电活动链接](https://f0q.cn/22eqE6)👈  https://f0q.cn/22eqE6  
 
 >   福建活动群
 
@@ -53,11 +55,11 @@
 
 >   外省活动
 
-👉[北京移动活动链接](https://f0q.cn/1yhl8w)👈  http://f0q.cn/1yhl8w  
+👉[北京移动活动链接](https://f0q.cn/1yhl8w)👈  https://f0q.cn/1yhl8w  
 
 👉[广东移动活动链接](https://f0q.cn/1UM1KX)👈  https://f0q.cn/1UM1KX  
 
-👉[宁夏电信活动链接](https://f0q.cn/1jeXQy)👈  http://f0q.cn/1jeXQy  
+👉[宁夏电信活动链接](https://f0q.cn/1jeXQy)👈  https://f0q.cn/1jeXQy  
 
 # 流量消耗（快速消耗流量）
 👉[流量消耗器/新版](https://www.fjglt.cn/llxhq)👈  https://www.fjglt.cn/llxhq
