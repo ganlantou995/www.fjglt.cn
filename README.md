@@ -3,7 +3,7 @@
 
 👉[橄榄头官网备用地址](https://www.fjglt.cn/)👈  https://www.fjglt.cn/  
 # 全国流量卡套餐购买
-👉[大流量卡购买0](https://h5.gantanhao.com?from=ABGF)👈 流量优惠卡套餐购 https://h5.gantanhao.com?from=ABGF  
+👉[大流量卡购买0](https://h5.gantanhao.com?from=ABGF>)👈 流量优惠卡套餐购 https://h5.gantanhao.com?from=ABGF>  
 
 👉[大流量卡购买1](http://gantanhao.vip/91haoka_platform/#/minishop?share_id=399227)👈 流量优惠卡套餐购 http://gantanhao.vip/91haoka_platform/#/minishop?share_id=399227  
 
