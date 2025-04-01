@@ -1,18 +1,13 @@
 # 橄榄头官网⭐收藏防丢失
+👉[橄榄头官网永久地址](https://www.fjglt.cn/)👈  https://www.fjglt.cn/  
+
 👉[橄榄头官网永久地址](https://www.fjglt.com/)👈  https://www.fjglt.com/  
-
-👉[橄榄头官网备用地址](https://www.fjglt.cn/)👈  https://www.fjglt.cn/  
 # 全国流量卡套餐购买
-👉[大流量卡购买0](https://h5.gantanhao.com?from=ABGF>)👈 流量优惠卡套餐购 https://h5.gantanhao.com?from=ABGF>  
-
-👉[大流量卡购买1](http://gantanhao.vip/91haoka_platform/#/minishop?share_id=399227)👈 流量优惠卡套餐购 http://gantanhao.vip/91haoka_platform/#/minishop?share_id=399227  
+👉[大流量卡购买1](https://h5.gantanhao.com?from=ABGF>)👈 流量优惠卡套餐购 https://h5.gantanhao.com?from=ABGF>  
 
 👉[大流量卡购买2](https://card.wi-fi.cn/dist/index.html?source1=%E5%8F%B7%E5%8D%A1%E5%B9%BF%E5%9C%BA&sourcetype=zhushou&channel=zhushou&showBanner=false&seller_id=4141#/allpromotion)👈  
 
 # 优惠充值
-👉[9折起充值话费电燃娱乐](http://qr61.cn/oW63fk/q1aD7Pf)👈 请在微信中打开 http://qr61.cn/oW63fk/q1aD7Pf  
-
-👉[6折快递寄件](http://qr61.cn/oW63fk/qX2o1C2)👈 请在微信中打开 http://qr61.cn/oW63fk/qX2o1C2  
 
 👉[爱奇艺+京东PLUS会员等](https://vip.iqiyi.com/html5VIP/activity/union/jointsales/index.html?allowpay=1&fv=pu_9eba76bf4e5d6d20&social_platform=link&p1=2_22_221&fc=ae4e205edcc7affc#/)👈  
 
@@ -26,7 +21,7 @@
 
 👉[抖音](https://v.douyin.com/iF1svUYr/)👈  https://v.douyin.com/iF1svUYr/  
 
-👉[哔哩哔哩](https://b23.tv/cp44S4U)👈  https://b23.tv/cp44S4U  
+👉[哔哩哔哩](https://space.bilibili.com/9234036)👈  https://space.bilibili.com/9234036  
 
 👉[酷安](http://www.coolapk.com/u/599094)👈  http://www.coolapk.com/u/599094  
 
@@ -60,6 +55,10 @@
 👉[广东移动活动链接](https://www.yuque.com/fjglt/fjglt/xbx3cd125la3x6ng)👈  https://www.yuque.com/fjglt/fjglt/xbx3cd125la3x6ng 
 
 👉[宁夏电信活动链接](https://www.yuque.com/fjglt/fjglt/eg2tggiydocvgd7t)👈  https://www.yuque.com/fjglt/fjglt/eg2tggiydocvgd7t  
+
+👉[安徽电信活动链接](https://www.yuque.com/fjglt/fjglt/qukd6ygesdrzh4yg)👈  https://www.yuque.com/fjglt/fjglt/qukd6ygesdrzh4yg  
+
+👉[河北电信活动链接](https://www.yuque.com/fjglt/fjglt/ryz4c14g5tmng8cm)👈  https://www.yuque.com/fjglt/fjglt/ryz4c14g5tmng8cm 
 
 # 流量消耗（快速消耗流量）
 👉[流量消耗器/新版](https://www.fjglt.cn/llxhq)👈  https://www.fjglt.cn/llxhq
